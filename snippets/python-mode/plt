@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: plt
+# uuid: plt
+# key: plt
+# condition: t
+# --
+import matplotlib.pyplot as plt

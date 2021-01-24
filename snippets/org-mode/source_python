@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name:  source_python
+# key: pp
+# --
+#+BEGIN_SRC python :results value :session
+$1
+#+END_SRC
